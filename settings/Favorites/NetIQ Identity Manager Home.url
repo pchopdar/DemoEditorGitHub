@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://niqidm.discoverfinancial.com/landing/?postAuthDone=true
+[DOC_com.netiq.ualanding.index]
+BASEURL=https://niqidm.discoverfinancial.com/landing/com.netiq.ualanding.index/4E8D914B9F93EF8A76D6A6326D6AB631.cache.html
+ORIGURL=javascript:''
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://niqidm.discoverfinancial.com/landing/?postAuthDone=true
+IDList=
+IconFile=https://niqidm.discoverfinancial.com/landing/images/favicon.png
+IconIndex=1

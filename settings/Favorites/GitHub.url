@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://github.discoverfinancial.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop17=31,https://github.discoverfinancial.com/windows-tile.png
+Prop16=19,3
+Prop18=31,#ffffff
+[InternetShortcut]
+URL=https://github.discoverfinancial.com/
+IDList=
+IconFile=https://github.discoverfinancial.com/favicon-enterprise.ico
+IconIndex=1
